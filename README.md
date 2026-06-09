@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/phantom-hugs-in-dark/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Phantom Hugs In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/phantom-hugs-in-dark/) |
+| **Get License** | [Music Rights & Licensing for Phantom Hugs In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/phantom-hugs-in-dark/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows wrapping round my shoulders when the moon is low
+> I still feel your phantom touch everywhere I go
+> Tracing lines across my skin in the middle of the night
+> Pull me closer, hold me tight till the morning light
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
