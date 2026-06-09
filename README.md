@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/phantom-hugs-in-dark/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Phantom Hugs In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/phantom-hugs-in-dark/) |
+| **Get License** | [Request Licensing for Phantom Hugs In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/phantom-hugs-in-dark/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `935a41cb51e9dfc8e36f13b4b8b38bcc477d9ed68ac8880a8acbb3b88ff1995c` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
